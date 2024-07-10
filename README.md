@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Estou em busca de oportunidades de emprego
-- 🌱 Estou estudando Java
+- 🔭 Buscando oportunidades de emprego
+- 🌱 Estudando Engenharia de Software
 - 😄 Pronomes: ele/dele
  <!--
 - 👯 I’m looking to collaborate on
