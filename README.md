@@ -3,7 +3,7 @@
 
 
 - 🔭 Buscando oportunidades de emprego
-- 🌱 Estudando Engenharia de Software
+- 🌱 Estudando Engenharia de Software - UNDF
 - 😄 Pronomes: ele/dele
  <!--
 - 👯 I’m looking to collaborate on
