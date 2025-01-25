@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Buscando oportunidades de emprego
+- 🔭 Trabalhando na UNDTECH
 - 🌱 Estudando Engenharia de Software - UNDF
 - 😄 Pronomes: ele/dele
  <!--
