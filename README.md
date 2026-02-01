@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Trabalhando na UNDTECH
+- 🔭 Trabalhando na Deep
 - 🌱 Estudando Engenharia de Software - UNDF
 - 😄 Pronomes: ele/dele
  <!--
