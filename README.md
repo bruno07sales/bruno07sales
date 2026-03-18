@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Trabalhando na Deep
+- 🔭 Trabalhando na Agencia Deep 
 - 🌱 Estudando Engenharia de Software - UNDF
 - 😄 Pronomes: ele/dele
  <!--
