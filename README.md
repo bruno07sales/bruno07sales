@@ -9,6 +9,23 @@
 
 ---
 
+### 🧠 About Me
+
+Software Engineer focused on backend architecture, scalable APIs and distributed systems.
+
+I enjoy building robust applications using FastAPI, Python and modern cloud-native practices, with emphasis on:
+
+- Clean Architecture
+- SOLID principles
+- API Design
+- Observability
+- Scalability
+- DevOps culture
+- AI Integration & Automation
+- Intelligent Systems Development
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -89,7 +106,6 @@
 ### 🌐 Connect with me
 
 <div align="center">
-
 
 <a href="https://www.linkedin.com/in/bruno-sales-b11544144/?locale=pt" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
