@@ -1,9 +1,10 @@
-## Olá! Eu sou o Bruno Sales
+## Hello! I'm Bruno Sales
 
-- 🔭 Trabalhando na Agência Deep 
-- 💻 Software Engineer
-- 🌱 Estudando Engenharia de Software - UNDF
-- 😄 Pronomes: ele/dele
+* 🔭 Working at Deep Agency
+* 💻 Software Engineer
+* 🌱 Studying Software Engineering at UNDF
+* 😄 Pronouns: he/him
+
 
 <div align="center" style="display: inline-block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
