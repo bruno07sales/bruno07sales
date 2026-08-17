@@ -63,25 +63,6 @@ I enjoy building robust applications using FastAPI, Python and modern cloud-nati
 
 ---
 
-### 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bruno07sales&theme=tokyonight" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bruno07sales&theme=tokyonight&row=1&column=6" />
-
-</div>
-
----
 
 ### 👀 Profile Views
 
